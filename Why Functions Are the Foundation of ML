@@ -1,0 +1,8 @@
+Before diving into topics, understand WHY functions matter so deeply in AI and ML work. Every single thing in ML is built on functions:
+•A neural network is a composition of functions applied layer by layer
+•A loss function is literally a function that measures prediction error
+•Data preprocessing pipelines are functions applied in sequence
+•Model training is an optimization loop — minimizing a function
+•Every scikit-learn transformer, every PyTorch layer, every LangChain chain — all functions
+ 
+💡 Core Idea When you master Python functions deeply, you will understand what ML libraries are DOING underneath — not just how to call them. This is the difference between a user and an engineer.
